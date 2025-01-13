@@ -63,6 +63,7 @@ What's new in 1.18
 	- Broke out the Atrac3+ code from ffmpeg for easier debugging and maintenance ([#19033], [#19053], more)
 	- implement sysclib_sprintf ([#19097])
 - Rendering fixes
+- ## By Mudassir Alam
 	- Socom FB3 depth buffer problem in menu ([#19490])
 	- Platypus: Glitchy transparency with OpenGL ([#19364])
 	- Syphon Filter: Logan's Shadow: Dark lighting in OpenGL ([#19489])
